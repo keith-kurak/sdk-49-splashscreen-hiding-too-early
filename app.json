@@ -21,10 +21,23 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.example.sdk49splashscreenhidingtooearly"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "29c8d326-895c-4e49-bd3b-c8725402395d"
+      }
+    },
+    "owner": "keith-kurak",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/29c8d326-895c-4e49-bd3b-c8725402395d"
     }
   }
 }
